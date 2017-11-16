@@ -1,0 +1,597 @@
+ [
+  {
+  "song_id": "8",
+  "song_name": "Morning Has Broken",
+  "artist_id": "298805",
+  "display_artist": "Cat Stevens",
+  "spotify_id": "08iKq9eiXCQfD0uzNzzpbc"
+  },
+  {
+  "song_id": "141",
+  "song_name": "Early In The Morning",
+  "artist_id": "298494",
+  "display_artist": "Buddy Holly",
+  "spotify_id": "6WGzw3Bk9BgxUWvY7oJgrh"
+  },
+  {
+  "song_id": "152",
+  "song_name": "Early In The Morning",
+  "artist_id": "418986",
+  "display_artist": "The Rinky-Dinks",
+  "spotify_id": "19qkesdHjvJEZztR8kFuY3"
+  },
+  {
+  "song_id": "540",
+  "song_name": "The Morning Side Of The Mountain",
+  "artist_id": "430134",
+  "display_artist": "Tommy Edwards",
+  "spotify_id": "3s8ob4rEyRRFjY61EM5XNI"
+  },
+  {
+  "song_id": "1758",
+  "song_name": "Early Every Morning (Early Every Evening Too)",
+  "artist_id": "300955",
+  "display_artist": "Dinah Washington",
+  "spotify_id": "0D4Hwb0zsPjGLYaZsdmoDw"
+  },
+  {
+  "song_id": "2156",
+  "song_name": "Morning After",
+  "artist_id": "418582",
+  "display_artist": "Mar-Keys",
+  "spotify_id": "62LUftiabO67epbYZUhcu5"
+  },
+  {
+  "song_id": "4584",
+  "song_name": "Three O'Clock In The Morning",
+  "artist_id": "281417",
+  "display_artist": "Bert Kaempfert And His Orchestra",
+  "spotify_id": "6fGoCbD8Hnj0Rx8AK0KKwV"
+  },
+  {
+  "song_id": "4655",
+  "song_name": "Three O'Clock In The Morning",
+  "artist_id": "308260",
+  "display_artist": "Lou Rawls",
+  "spotify_id": null
+  },
+  {
+  "song_id": "4698",
+  "song_name": "The First Thing Ev'ry Morning (And The Last Thing Ev'ry Night)",
+  "artist_id": "304683",
+  "display_artist": "Jimmy Dean",
+  "spotify_id": "7HI03Og0RzSS9dvtcbNA0m"
+  },
+  {
+  "song_id": "4903",
+  "song_name": "Early Morning Rain",
+  "artist_id": "331058",
+  "display_artist": "Peter, Paul & Mary",
+  "spotify_id": null
+  },
+  {
+  "song_id": "5369",
+  "song_name": "One Too Many Mornings",
+  "artist_id": "383731",
+  "display_artist": "Beau Brummels",
+  "spotify_id": null
+  },
+  {
+  "song_id": "5866",
+  "song_name": "Morningtown Ride",
+  "artist_id": "419076",
+  "display_artist": "The Seekers",
+  "spotify_id": "28XkPUMCSPJq6C9ZB1lGcX"
+  },
+  {
+  "song_id": "6067",
+  "song_name": "Mary In The Morning",
+  "artist_id": "278287",
+  "display_artist": "Al Martino",
+  "spotify_id": "0XQHM6hCq87DndVRONPzI5"
+  },
+  {
+  "song_id": "6522",
+  "song_name": "Some Velvet Morning",
+  "artist_id": "276982",
+  "display_artist": "Nancy Sinatra & Lee Hazlewood",
+  "spotify_id": "1ZeM9GD8ek37Dcp1XGMvpa"
+  },
+  {
+  "song_id": "6709",
+  "song_name": "A Beautiful Morning",
+  "artist_id": "418931",
+  "display_artist": "The Rascals",
+  "spotify_id": "3QwbKe0s8TcNclzXAXHeHy"
+  },
+  {
+  "song_id": "6755",
+  "song_name": "Angel Of The Morning",
+  "artist_id": "310595",
+  "display_artist": "Merrilee Rush & The Turnabouts",
+  "spotify_id": "27QxL30kLR6RyIjLXCMFdU"
+  },
+  {
+  "song_id": "6917",
+  "song_name": "Morning Dew",
+  "artist_id": "308564",
+  "display_artist": "Lulu",
+  "spotify_id": "5txH0HbTcqR1NYVmRVgunx"
+  },
+  {
+  "song_id": "7370",
+  "song_name": "Morning Girl",
+  "artist_id": "418695",
+  "display_artist": "The Neon Philharmonic",
+  "spotify_id": "0cB2FbupCdMdDjdcwLhFqt"
+  },
+  {
+  "song_id": "7465",
+  "song_name": "Good Morning Starshine",
+  "artist_id": "312503",
+  "display_artist": "Oliver",
+  "spotify_id": "2uPjNcKB9VIlWAOd26OQLH"
+  },
+  {
+  "song_id": "7466",
+  "song_name": "Good Morning Starshine",
+  "artist_id": "280835",
+  "display_artist": "Strawberry Alarm Clock",
+  "spotify_id": "26D5mLklBxduCJmGZ210Rf"
+  },
+  {
+  "song_id": "7505",
+  "song_name": "Don't Wake Me Up In The Morning, Michael",
+  "artist_id": "418819",
+  "display_artist": "Peppermint Rainbow",
+  "spotify_id": null
+  },
+  {
+  "song_id": "7611",
+  "song_name": "Chelsea Morning",
+  "artist_id": "305342",
+  "display_artist": "Judy Collins",
+  "spotify_id": "246K5vQofQkfzDqU4ms8Bu"
+  },
+  {
+  "song_id": "7791",
+  "song_name": "Early In The Morning",
+  "artist_id": "277737",
+  "display_artist": "Vanity Fare",
+  "spotify_id": "0mvhn9Ab3h6C1svxkDpVxP"
+  },
+  {
+  "song_id": "7829",
+  "song_name": "She Lets Her Hair Down (Early In The Morning)",
+  "artist_id": "419299",
+  "display_artist": "The Tokens",
+  "spotify_id": null
+  },
+  {
+  "song_id": "7835",
+  "song_name": "She Lets Her Hair Down (Early In The Morning)",
+  "artist_id": "302676",
+  "display_artist": "Gene Pitney",
+  "spotify_id": "1Qef4VQoCICLyeuxIemJxL"
+  },
+  {
+  "song_id": "7844",
+  "song_name": "Come Saturday Morning",
+  "artist_id": "419051",
+  "display_artist": "The Sandpipers",
+  "spotify_id": "6MN442jV9b56J3n0EY3JHw"
+  },
+  {
+  "song_id": "8162",
+  "song_name": "Good Morning Freedom",
+  "artist_id": null,
+  "display_artist": "Daybreak",
+  "spotify_id": null
+  },
+  {
+  "song_id": "8233",
+  "song_name": "Morning Much Better",
+  "artist_id": null,
+  "display_artist": "Ten Wheel Drive With Genya Ravan",
+  "spotify_id": null
+  },
+  {
+  "song_id": "8290",
+  "song_name": "Sunday Morning Coming Down",
+  "artist_id": "305054",
+  "display_artist": "Johnny Cash",
+  "spotify_id": "0YxbjgtJmneSBTDwfGE1jA"
+  },
+  {
+  "song_id": "8297",
+  "song_name": "(I Remember) Summer Morning",
+  "artist_id": "277737",
+  "display_artist": "Vanity Fare",
+  "spotify_id": "5B9eFaTmm1H6i7Xp2leUz2"
+  },
+  {
+  "song_id": "8424",
+  "song_name": "Morning",
+  "artist_id": "304631",
+  "display_artist": "Jim Ed Brown",
+  "spotify_id": "178cURJmIeWpUIFsjJ82IC"
+  },
+  {
+  "song_id": "8571",
+  "song_name": "The Morning Of Our Lives",
+  "artist_id": null,
+  "display_artist": "Arkade",
+  "spotify_id": null
+  },
+  {
+  "song_id": "8828",
+  "song_name": "Saturday Morning Confusion",
+  "artist_id": "295260",
+  "display_artist": "Bobby Russell",
+  "spotify_id": null
+  },
+  {
+  "song_id": "8872",
+  "song_name": "I Woke Up In Love This Morning",
+  "artist_id": null,
+  "display_artist": "The Partridge Family Starring Shirley Jones Featuring David Cassidy",
+  "spotify_id": null
+  },
+  {
+  "song_id": "8922",
+  "song_name": "One Fine Morning",
+  "artist_id": "307195",
+  "display_artist": "Lighthouse",
+  "spotify_id": "4xNewuGyz2YRnpasppZL4j"
+  },
+  {
+  "song_id": "8923",
+  "song_name": "Talk It Over In The Morning",
+  "artist_id": "279451",
+  "display_artist": "Anne Murray",
+  "spotify_id": "0GxsnkXzE6hwwd9HMNMkqh"
+  },
+  {
+  "song_id": "9181",
+  "song_name": "It's Four In The Morning",
+  "artist_id": "276208",
+  "display_artist": "Faron Young",
+  "spotify_id": "5574tjBP659l9EZY0ry0cC"
+  },
+  {
+  "song_id": "9353",
+  "song_name": "In The Quiet Morning",
+  "artist_id": "304752",
+  "display_artist": "Joan Baez",
+  "spotify_id": "4fJ9SmvysKQX31nnCOJs6y"
+  },
+  {
+  "song_id": "9462",
+  "song_name": "Happier Than The Morning Sun",
+  "artist_id": "275479",
+  "display_artist": "B.J. Thomas",
+  "spotify_id": null
+  },
+  {
+  "song_id": "9477",
+  "song_name": "Sunday Morning Sunshine",
+  "artist_id": "303314",
+  "display_artist": "Harry Chapin",
+  "spotify_id": "14mhlMWaUd8YdVFvyDtR1z"
+  },
+  {
+  "song_id": "9606",
+  "song_name": "Good Morning Heartache",
+  "artist_id": "300875",
+  "display_artist": "Diana Ross",
+  "spotify_id": "3MSOgxINnzigwwZ9bBcm1E"
+  },
+  {
+  "song_id": "9652",
+  "song_name": "Good Morning",
+  "artist_id": null,
+  "display_artist": "Michael Redway",
+  "spotify_id": null
+  },
+  {
+  "song_id": "9715",
+  "song_name": "Saw A New Morning",
+  "artist_id": "281091",
+  "display_artist": "Bee Gees",
+  "spotify_id": "1rVa4ALZewAz4JwlKGdMIj"
+  },
+  {
+  "song_id": "9808",
+  "song_name": "Touch Me In The Morning",
+  "artist_id": "300875",
+  "display_artist": "Diana Ross",
+  "spotify_id": "1stir47TleHwabdeLVqHue"
+  },
+  {
+  "song_id": "9842",
+  "song_name": "The Morning After",
+  "artist_id": "310101",
+  "display_artist": "Maureen McGovern",
+  "spotify_id": "4CAUmWc3P3aGpw3SLKf4Qv"
+  },
+  {
+  "song_id": "9959",
+  "song_name": "Farewell Andromeda (Welcome To My Morning)",
+  "artist_id": "304931",
+  "display_artist": "John Denver",
+  "spotify_id": "66OhczNXX67RHCmn8MF6W7"
+  },
+  {
+  "song_id": "10293",
+  "song_name": "When The Morning Comes",
+  "artist_id": "303663",
+  "display_artist": "Hoyt Axton",
+  "spotify_id": "3k5708upFqOrIDvVbmfZvu"
+  },
+  {
+  "song_id": "10310",
+  "song_name": "How Do You Feel The Morning After",
+  "artist_id": "311302",
+  "display_artist": "Millie Jackson",
+  "spotify_id": "2K9Xk9d98wnS4C2xwCibdB"
+  },
+  {
+  "song_id": "10486",
+  "song_name": "Early Morning Love",
+  "artist_id": "278029",
+  "display_artist": "Sammy Johns",
+  "spotify_id": "5H0SLQKVtmQOB12m590eN4"
+  },
+  {
+  "song_id": "10531",
+  "song_name": "Morning Side Of The Mountain",
+  "artist_id": "301188",
+  "display_artist": "Donny & Marie Osmond",
+  "spotify_id": null
+  },
+  {
+  "song_id": "10670",
+  "song_name": "Like A Sunday Morning",
+  "artist_id": null,
+  "display_artist": "Lana Cantrell",
+  "spotify_id": "3jjBnB7v3HpQ0VD4A3QE5U"
+  },
+  {
+  "song_id": "10758",
+  "song_name": "Don't Leave Me In The Morning",
+  "artist_id": null,
+  "display_artist": "Odia Coates",
+  "spotify_id": null
+  },
+  {
+  "song_id": "10789",
+  "song_name": "Tryin' To Beat The Morning Home",
+  "artist_id": "277485",
+  "display_artist": "T.G. Sheppard",
+  "spotify_id": "4d0fnMH6nVEELXOgqey68c"
+  },
+  {
+  "song_id": "11901",
+  "song_name": "Light Of A Clear Blue Morning",
+  "artist_id": "301080",
+  "display_artist": "Dolly Parton",
+  "spotify_id": "0oWkNxm1s6XA5KA22qLxrN"
+  },
+  {
+  "song_id": "11960",
+  "song_name": "Good Morning Judge",
+  "artist_id": "431837",
+  "display_artist": "10cc",
+  "spotify_id": "1ykjGbf3nEwumYVyRu23Pc"
+  },
+  {
+  "song_id": "12563",
+  "song_name": "Blue Morning, Blue Day",
+  "artist_id": "302299",
+  "display_artist": "Foreigner",
+  "spotify_id": "15chid0vtfa2IwV1V8V85w"
+  },
+  {
+  "song_id": "12688",
+  "song_name": "Saturday Night, Sunday Morning",
+  "artist_id": "419481",
+  "display_artist": "Thelma Houston",
+  "spotify_id": "4dRaAoOYYbU2PW70Ods9yc"
+  },
+  {
+  "song_id": "12794",
+  "song_name": "Morning Dance",
+  "artist_id": "280232",
+  "display_artist": "Spyro Gyra",
+  "spotify_id": "2sw8tX0BOriReqsRhdnKOu"
+  },
+  {
+  "song_id": "13116",
+  "song_name": "Fire In The Morning",
+  "artist_id": "310454",
+  "display_artist": "Melissa Manchester",
+  "spotify_id": "3P9K308CovFv7tbJz8UKRE"
+  },
+  {
+  "song_id": "13360",
+  "song_name": "Good Morning Girl\/stay Awhile",
+  "artist_id": "305287",
+  "display_artist": "Journey",
+  "spotify_id": null
+  },
+  {
+  "song_id": "13443",
+  "song_name": "Morning Man",
+  "artist_id": "369296",
+  "display_artist": "Rupert Holmes",
+  "spotify_id": "6l4YSboac1g79Ae3xg5UaK"
+  },
+  {
+  "song_id": "13540",
+  "song_name": "Morning Train (Nine To Five)",
+  "artist_id": "279031",
+  "display_artist": "Sheena Easton",
+  "spotify_id": "6CEKntwndUlmWhSRflWA5X"
+  },
+  {
+  "song_id": "13548",
+  "song_name": "Angel Of The Morning",
+  "artist_id": "305351",
+  "display_artist": "Juice Newton",
+  "spotify_id": "02vqHv51QTtMJVaFEwjWPV"
+  },
+  {
+  "song_id": "14082",
+  "song_name": "Early In The Morning",
+  "artist_id": "410038",
+  "display_artist": "The Gap Band",
+  "spotify_id": "5frNlTNNuWYnpIp0Expenu"
+  },
+  {
+  "song_id": "15495",
+  "song_name": "Four In The Morning (I Can t Take Anymore)",
+  "artist_id": "312292",
+  "display_artist": "Night Ranger",
+  "spotify_id": null
+  },
+  {
+  "song_id": "15606",
+  "song_name": "Morning Desire",
+  "artist_id": "305733",
+  "display_artist": "Kenny Rogers",
+  "spotify_id": "2oiuRRFGTZcqO9V0lXG4ph"
+  },
+  {
+  "song_id": "16306",
+  "song_name": "Silent Morning",
+  "artist_id": "1529917",
+  "display_artist": "Noel",
+  "spotify_id": "3hCibWQ58Vs1YNmD0uA14w"
+  },
+  {
+  "song_id": "16842",
+  "song_name": "Early In The Morning",
+  "artist_id": "366083",
+  "display_artist": "Robert Palmer",
+  "spotify_id": "4TnV6aJGIDTNVLqBTyYFNB"
+  },
+  {
+  "song_id": "18506",
+  "song_name": "The Morning Papers",
+  "artist_id": "351039",
+  "display_artist": "Prince And The New Power Generation",
+  "spotify_id": null
+  },
+  {
+  "song_id": "18652",
+  "song_name": "Sunday Morning",
+  "artist_id": null,
+  "display_artist": "Earth, Wind",
+  "spotify_id": null
+  },
+  {
+  "song_id": "18776",
+  "song_name": "Will You Be There (In The Morning)",
+  "artist_id": "303367",
+  "display_artist": "Heart",
+  "spotify_id": "3SYff3rqwQcTFikHe4E3sn"
+  },
+  {
+  "song_id": "19418",
+  "song_name": "Wings Of The Morning",
+  "artist_id": "298642",
+  "display_artist": "Capleton",
+  "spotify_id": "6NY8PMePZSyy2YPzJlhO7H"
+  },
+  {
+  "song_id": "20598",
+  "song_name": "Every Morning",
+  "artist_id": "280938",
+  "display_artist": "Sugar Ray",
+  "spotify_id": "6Neq7tjnknt4URNI8txFL4"
+  },
+  {
+  "song_id": "20856",
+  "song_name": "Then The Morning Comes",
+  "artist_id": "279617",
+  "display_artist": "Smash Mouth",
+  "spotify_id": "5XyPRKhXUalFpS2I5kLQBF"
+  },
+  {
+  "song_id": "21316",
+  "song_name": "Best I Ever Had (Grey Sky Morning)",
+  "artist_id": "430788",
+  "display_artist": "Vertical Horizon",
+  "spotify_id": "2EVNYzHWebyLvKxPX6Ozt8"
+  },
+  {
+  "song_id": "21541",
+  "song_name": "Good Morning Beautiful",
+  "artist_id": "280611",
+  "display_artist": "Steve Holy",
+  "spotify_id": "6XHSxHlbphfjn0Xjrv3E0l"
+  },
+  {
+  "song_id": "22471",
+  "song_name": "Monday Morning Church",
+  "artist_id": "278315",
+  "display_artist": "Alan Jackson",
+  "spotify_id": "0yftAXSqtZoHdgrXjSuZwz"
+  },
+  {
+  "song_id": "22495",
+  "song_name": "Sunday Morning",
+  "artist_id": "309663",
+  "display_artist": "Maroon5",
+  "spotify_id": "1YI0uK36eupTmw9F8kHysr"
+  },
+  {
+  "song_id": "22511",
+  "song_name": "I May Hate Myself In The Morning",
+  "artist_id": "306816",
+  "display_artist": "Lee Ann Womack",
+  "spotify_id": "6dWGSm15Vj6m7qLKEO85ZN"
+  },
+  {
+  "song_id": "23384",
+  "song_name": "4 In The Morning",
+  "artist_id": "303280",
+  "display_artist": "Gwen Stefani",
+  "spotify_id": "64fSdRkaB7ksxI9suUGYmi"
+  },
+  {
+  "song_id": "24325",
+  "song_name": "Good Morning",
+  "artist_id": "298913",
+  "display_artist": "Chamillionaire",
+  "spotify_id": "2VkD1v3tYy51yHdalZzEgJ"
+  },
+  {
+  "song_id": "24390",
+  "song_name": "Morning After Dark",
+  "artist_id": "429956",
+  "display_artist": "Timbaland Featuring Nelly Furtado & SoShy",
+  "spotify_id": "6mmtxbG5pzkrJ0BrSdg9uW"
+  },
+  {
+  "song_id": "24528",
+  "song_name": "Hello Good Morning",
+  "artist_id": "300903",
+  "display_artist": "Diddy - Dirty Money Featuring T.I.",
+  "spotify_id": "2uAbEJGrLecIbkW9p3OqQl"
+  },
+  {
+  "song_id": "24570",
+  "song_name": "New Morning",
+  "artist_id": "278711",
+  "display_artist": "Alpha Rev",
+  "spotify_id": "3vMffV667VhtUgH7Bxdyxj"
+  },
+  {
+  "song_id": "26700",
+  "song_name": "Kiss You In The Morning",
+  "artist_id": "6556086",
+  "display_artist": "Michael Ray",
+  "spotify_id": "6TwhBJgvrPrdNe57lYVV55"
+  }
+  ]
